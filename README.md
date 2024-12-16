@@ -53,7 +53,7 @@ The app showcases navigation between sections and a minimalistic user interface.
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dhanashree310/insta.git
+   git clone https://github.com/dhanashree310/flutter-insta-ui.git
    ```
 2. Navigate to the project directory:
    ```bash
