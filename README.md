@@ -68,8 +68,11 @@ The app showcases navigation between sections and a minimalistic user interface.
    flutter run
    ```
 **📱 Screenshots**
+
 HomePage:
-![Home Page](https://github.com/user-attachments/assets/2ba9a23b-ef7b-489f-9d06-39c310478a9b)
+
+![image](https://github.com/user-attachments/assets/3b4d1724-2014-4bdb-899e-6f73df62ac13)
+
 
 
 **🛠️ Tools & Technologies**
