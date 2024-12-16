@@ -74,11 +74,10 @@ HomePage:
 ![image](https://github.com/user-attachments/assets/3b4d1724-2014-4bdb-899e-6f73df62ac13)
 
 
-
 **🛠️ Tools & Technologies**
 
-Flutter: Frontend framework
-Dart: Programming language
+- Flutter: Frontend framework
+- Dart: Programming language
 
 **🧑‍💻 Author**
 
