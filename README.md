@@ -67,6 +67,8 @@ The app showcases navigation between sections and a minimalistic user interface.
    ```bash
    flutter run
    ```
+SCREENSHOTS
+![Screenshot_1734296630](https://github.com/user-attachments/assets/158e42cb-70c2-4f68-8121-cb5e2cfa789e)
 
 🛠️ Tools & Technologies
 
