@@ -67,14 +67,16 @@ The app showcases navigation between sections and a minimalistic user interface.
    ```bash
    flutter run
    ```
-SCREENSHOTS
-![Screenshot_1734296630](https://github.com/user-attachments/assets/158e42cb-70c2-4f68-8121-cb5e2cfa789e)
+**📱 Screenshots**
+HomePage:
+![Home Page](https://github.com/user-attachments/assets/2ba9a23b-ef7b-489f-9d06-39c310478a9b)
 
-🛠️ Tools & Technologies
+
+**🛠️ Tools & Technologies**
 
 Flutter: Frontend framework
 Dart: Programming language
 
-🧑‍💻 Author
+**🧑‍💻 Author**
 
 Dhanashree Chaudhari :)
