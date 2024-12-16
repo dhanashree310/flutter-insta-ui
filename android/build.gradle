@@ -1,0 +1,17 @@
+allprojects {
+    repositories {
+        google() // Preferred repository for Android dependencies
+        mavenCentral() // Use Maven Central instead of JCenter
+    }
+}
+
+rootProject.buildDir = '../build'
+
+subprojects {
+    project.buildDir = "${rootProject.buildDir}/${project.name}"
+    // You can remove `evaluationDependsOn` unless explicitly required
+}
+
+tasks.register("clean", Delete) {
+    delete rootProject.buildDir
+}
